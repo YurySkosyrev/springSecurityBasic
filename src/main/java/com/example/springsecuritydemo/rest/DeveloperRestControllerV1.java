@@ -1,4 +1,4 @@
-package com.example.springsecuritydemo.controller;
+package com.example.springsecuritydemo.rest;
 
 import com.example.springsecuritydemo.entity.Developer;
 import org.springframework.security.access.prepost.PreAuthorize;
