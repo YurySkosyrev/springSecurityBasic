@@ -1,0 +1,2 @@
+INSERT INTO public.users (id, email, first_name, last_name, password, role, status) VALUES (1, 'admin@mail.com', 'Admin', 'Adminov', '$2a$12$QeH8I1KMDbSyWrJL/PaPOeLXWhFNBiAMQGdzqSjPSBMvhHO7lBt8K', 'ADMIN', 'ACTIVE');
+INSERT INTO public.users (id, email, first_name, last_name, password, role, status) VALUES (2, 'user@mail.com', 'User', 'Userov', '$2a$12$BTB0okT5BL28.NOKJKlHruvt7p36T9HJULc5x504mi6YtGVDw0eiO', 'USER', 'BANNED');
